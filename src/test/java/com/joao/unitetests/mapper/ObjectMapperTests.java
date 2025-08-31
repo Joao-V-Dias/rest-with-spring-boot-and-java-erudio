@@ -1,7 +1,7 @@
 package com.joao.unitetests.mapper;
 import static com.joao.mapper.ObjectMapper.parseListObjects;
 import static com.joao.mapper.ObjectMapper.parseObject;
-import com.joao.data.dto.PersonDTO;
+import com.joao.data.dto.v1.PersonDTO;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.util.List;
